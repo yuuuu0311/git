@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    background: pink;
+}
+
+h1 {
+    color: plum;
+}
+
+* {
+    font-size: 2rem;
+}
